@@ -1,4 +1,4 @@
-[v0.0.4](https://github.com/littleflute/The-world-s-greatest-composers/edit/master/README.md)
+[v0.0.5](https://github.com/littleflute/The-world-s-greatest-composers/edit/master/README.md)
 
 [cd1](cd1)
 
@@ -11,5 +11,14 @@
 [cd5](cd5)
 
 [cd6](cd6)
+
+[cd7](cd7)
+
+[cd8](cd8)
+
+[cd9](cd9)
+
+[cd10](cd10)
+
 
 
