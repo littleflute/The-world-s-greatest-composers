@@ -1,0 +1,12 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "Track 1.mp3";		
+f[2]	= "Track 10.mp3";		
+f[3]	= "Track 2.mp3";		
+f[4]	= "Track 3.mp3";		
+f[5]	= "Track 4.mp3";		
+f[6]	= "Track 5.mp3";		
+f[7]	= "Track 6.mp3";		
+f[8]	= "Track 7.mp3";		
+f[9]	= "Track 8.mp3";		
+f[10]	= "Track 9.mp3";		
