@@ -1,0 +1,15 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "Alexander Borodin   Prince Igor  Polovtsian Dances (Excerpt).mp3";		
+f[2]	= "Alexis Emmanuel Chabrier   Espana.mp3";		
+f[3]	= "Antonin Dvorak   Slavonic Dances, Op.46, No.8, in G major.mp3";		
+f[4]	= "Carl Maria von Weber   Der Freischutz  Overture.mp3";		
+f[5]	= "Edvard Grieg   Lyric Suite, Op.54  I. Shepherd's Boy.mp3";		
+f[6]	= "Edvard Grieg   Lyric Suite, Op.54  II. Norwegian March.mp3";		
+f[7]	= "Edvard Grieg   Lyric Suite, Op.54  III. Nortturno.mp3";		
+f[8]	= "Edvard Grieg   Lyric Suite, Op.54  IV. March of the Dwarfs.mp3";		
+f[9]	= "Emil Waldteufel   Estudiantina Waltz, Op.191.mp3";		
+f[10]	= "Leo Delibes   Sylvia  Procession of Bacchus.mp3";		
+f[11]	= "Maurice Ravel   Daphnis et Chloe, Suite No.2  III. Danse generale.mp3";		
+f[12]	= "Maurice Ravel   Miroirs  No.3  Une barque sur l,ocean.mp3";		
+f[13]	= "Nikolai Rimsky-Korsakov   The Snow Maiden ( Snegurochka )  Dance of the Tumblers.mp3";		
