@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "Camille Saint-Saens   Fantasy for Piano & Orchestra, Op.89.mp3";		
+f[2]	= "Camille Saint-Saens   Samson et Dalilah, Op.47  Bacchanale.mp3";		
+f[3]	= "Claude Debussy   Danses Sacree et Profane.mp3";		
+f[4]	= "Franz Liszt   Hungarian Rhapsody No. 2.mp3";		
+f[5]	= "Georges Bizet   Carmen Suite No.1  Aragonaise.mp3";		
+f[6]	= "Georges Bizet   Carmen Suite No.1  Les toreadors.mp3";		
+f[7]	= "Georges Bizet   Carmen Suite No.1  Prelude to Act 1.mp3";		
+f[8]	= "Hector Berlioz   The Damnation of Faust  March Hongroise  Rakoczy March .mp3";		
+f[9]	= "Igor Stravinsky   The Firebird Suite  VII. Finale.mp3";		
+f[10]	= "Johann Strauss (Son)   Egyptian March, Op.335.mp3";		
+f[11]	= "Manuel de Falla   El Amor Brujo  Ritual Fire Dance.mp3";		
+f[12]	= "Modest Mussorgsky   Pictures at an Exhibition (arr. for Orchestra)  XV. The Great Gate at Kiev.mp3";		
+f[13]	= "Richard Wagner   The Valkyrie  Ride of the Valkyries.mp3";		
+f[14]	= "Wolfgang Amadeus Mozart   Requiem, K.626  II. Dies Irae.mp3";		
