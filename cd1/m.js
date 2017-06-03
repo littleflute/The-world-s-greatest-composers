@@ -1,0 +1,14 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "Claude Debussy   Children's Corner  VI. Golliwog's Cake-Walk.mp3";		
+f[2]	= "Eric Satie   3 Gymnopedies  Gymnopedie No.3 - Lent et grave.mp3";		
+f[3]	= "Franz Schubert   Impromptus, Op.90  No.4 in A-flat major (Allegretto).mp3";		
+f[4]	= "Frederic Chopin   Impromptu in C Sharp major, Op.66,  Fantaisie-impromptu .mp3";		
+f[5]	= "Frederic Chopin   Piano Sonata No.2 in B Flat minor, Op.35  III. Marche funebre - Lento.mp3";		
+f[6]	= "Ludwig van Beethoven   Bagatelle for Piano in A minor  Fur Elise,  WOO No.59.mp3";		
+f[7]	= "Ludwig van Beethoven   Piano Sonata No.8 in C minor, Op.13  Pathetique   II. Adagio Cantabile.mp3";		
+f[8]	= "Maurice Ravel   Gaspard de la nuit  III. Scarbo.mp3";		
+f[9]	= "Maurice Revel   Miroirs  III. Une barque sur l'ocean.mp3";		
+f[10]	= "Robert Schumann   Scenes From Childhood, Op.15  VII. Traumerei.mp3";		
+f[11]	= "Sergei Rachmaninoff   Rhapsody on a Theme by Paganini  Variation No.18.mp3";		
+f[12]	= "Wolfgan Amadeus Mozart   Variation for Piano on  Ah, vous dirai-je maman,  K. 265.mp3";		
