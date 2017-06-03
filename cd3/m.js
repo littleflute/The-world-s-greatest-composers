@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "Claude Debussy   Prelude a l'apres-midi d'un faune.mp3";		
+f[2]	= "Edvard Grieg   Wedding day at Troldhaugen, Op.65.mp3";		
+f[3]	= "Gabriel Faure   Requiem  pie Jesu.mp3";		
+f[4]	= "Gustav Mahler   Symphony N0.5 in C-sharp minor  IV. Adagietto.mp3";		
+f[5]	= "Johann Pachelbel   Canon in D major.mp3";		
+f[6]	= "Leos Janacek   Idyll for String Orchestra  V. Adagio.mp3";		
+f[7]	= "Maurice Ravel   Pavane pour une infante defunte.mp3";		
+f[8]	= "Peer Ilyich Tchaikovsky   Symphony N0.5 in E major, Op.64  II. Andante cantabile, con alcuna licenza.mp3";		
+f[9]	= "Tommaso Albinoni   Adagio in G minor.mp3";		
