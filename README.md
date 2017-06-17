@@ -1,4 +1,6 @@
-[v0.0.5](https://github.com/littleflute/The-world-s-greatest-composers/edit/master/README.md)
+[v0.0.6](https://github.com/littleflute/The-world-s-greatest-composers/edit/master/README.md)
+
+[https://littleflute.github.io/The-world-s-greatest-composers1/](https://littleflute.github.io/The-world-s-greatest-composers1/)
 
 [cd1](cd1)
 
